@@ -8,3 +8,10 @@
 .add-button {
 	font-size: 2em !important;
 }
+.add_participant span {
+    color: green;
+    font-weight: bold;
+}
+.postfix span {
+    color: green;
+}
